@@ -13,7 +13,7 @@ Usage of standard libraries for practical tasks
 git clone repository link
 cd python-basics
 
-**Usage: **
+**Usage:**
 
 To run any script, simply execute:
 
